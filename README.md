@@ -3,7 +3,7 @@
 ## Hi, there my gorgeous friend
 
 <!-- My openion -->
-<h4 align="justify">I'm Jobayer Hossain, your dedicated website builder and WordPress expert. I enjoy helping people in creating their online presence, and I particularly pleasure with coding. Because of this, I strive to do my best in web development and WordPress Development. I believe that good websites can lead a great business.</h4>
+<h4 align="justify">I'm Jobayer Hossain, your dedicated website builder and WordPress expert. I enjoy helping people in creating their online presence, and I particularly pleasure with coding. Because of this, I strive to do my best in web development and WordPress Development. <br/> I believe that good websites can lead a great business.</h4>
 
 <!-- Showoff my country -->
 <img align="right" src="https://github.com/jobayerhossain699/jobayerhossain699/assets/114942451/6d125de7-0bb7-4ab7-aae6-b91e4d5b5449">
@@ -34,12 +34,13 @@
 <!-- My github summary -->
 ## Numbers
 
-![jobayerhossain's Trophy](https://github-profile-trophy.vercel.app/?username=jobayerhossain699&margin-w=2&margin-h=2&column=8)
+![jobayerhossain's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jobayerhossain699&theme=highcontrast&show_icons=true&hide_border=false&langs_count=10)
+![jobayerhossain's Trophy](https://hacked-github-stat-trophies.vercel.app/?username=jobayerhossain699&theme=highcontrast&margin-h=0&margin-w=0)
 
-![jobayerhossain's Stats](https://github-readme-stats.vercel.app/api?username=jobayerhossain699&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![jobayerhossain's Stats](https://readme-stats-fabio-vicente.vercel.app/api?username=jobayerhossain699&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ![jobayerhossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain699&theme=highcontrast&hide_border=false)
 
-![jobayerhossain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhossain699&theme=highcontrast&show_icons=true&hide_border=false&langs_count=10)
+
 
 <!-- My all contacts -->
 ## Where to find me
@@ -49,9 +50,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]("#")
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-00b34d?style=for-the-badge&logo=hackerrank&logoColor=white)]("#")
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)]("#")
-
-
-
-
-
-
