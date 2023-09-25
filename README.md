@@ -22,7 +22,7 @@ I believe that a good website can lead to a great business.</strong></p>
 
 
 <!-- Showoff my skillset -->
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -47,16 +47,16 @@ I believe that a good website can lead to a great business.</strong></p>
 <!-- My github summary -->
 <h2 align="center">My Github Summary</h2>
 
-| <img src="https://github-profile-trophy.vercel.app/?username=jobayerhossain699&column=7&margin-w=8&theme=nord&no-frame=true" alt="Github trophy"/> |
-| ------------- |
-
-| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayerhossain699&theme=nord_bright" alt="Github overview"/> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayerhossain699&theme=nord_bright&utcOffset=6" alt="Github commit hours"/> |
+| ![GitHub metrics](https://metrics.lecoq.io/jobayerhossain699) | ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=jobayerhossain699&column=4&margin-w=10&theme=nord&no-frame=true) |
 | ------------- | ------------- |
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobayerhossain699&title_color=f2f2f2&text_color=fff&langs_count=10&layout=compact&theme=nord" alt="Most used languages"/> | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobayerhossain699&theme=solarized" alt="Top language by repo"/> | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobayerhossain699&theme=solarized" alt="Top language by commit"/> |
+| ![Github overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayerhossain699&theme=nord_bright) | ![Github commit hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayerhossain699&theme=nord_bright&utcOffset=6) | 
+| ------------- | ------------- |
+
+| ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jobayerhossain699&title_color=f2f2f2&text_color=fff&langs_count=10&layout=compact&theme=nord) | ![Top language by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobayerhossain699&theme=solarized) | ![Top language by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobayerhossain699&theme=solarized) |
 | ------------- | ------------- | ------------- |
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jobayerhossain699&show_icons=true&locale=en&theme=nord&text_color=fff" alt="Github stats"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain699&theme=nord" alt="Github streak"/> |
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=jobayerhossain699&show_icons=true&locale=en&theme=nord&text_color=fff) | ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain699&theme=nord) |
 | ------------- | ------------- |
 
 
