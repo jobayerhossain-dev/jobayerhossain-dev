@@ -47,9 +47,6 @@ I believe that a good website can lead to a great business.</strong></p>
 <!-- My github summary -->
 <h2 align="center">My Github Summary</h2>
 
-| ![GitHub metrics](https://metrics.lecoq.io/jobayerhossain699) | ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=jobayerhossain699&column=4&margin-w=10&theme=nord&no-frame=true) |
-| ------------- | ------------- |
-
 | ![Github overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayerhossain699&theme=nord_bright) | ![Github commit hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayerhossain699&theme=nord_bright&utcOffset=6) | 
 | ------------- | ------------- |
 
