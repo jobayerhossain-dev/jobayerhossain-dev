@@ -30,17 +30,18 @@ I believe that a good website can lead to a great business.</strong></p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="37"/>
 </p>
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)]("#")
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)]("#")
-[![Github](https://img.shields.io/badge/Github-1A1E22?style=for-the-badge)]("#")
-[![VScode](https://img.shields.io/badge/VS_Code-2e7eb2?style=for-the-badge)]("#")
+![CLI](https://img.shields.io/badge/CLI-1A1E22?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![Github](https://img.shields.io/badge/Github-1A1E22?style=for-the-badge)
+![VScode](https://img.shields.io/badge/VS_Code-2e7eb2?style=for-the-badge)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)]("#")
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)]("#")
-[![BootStrap](https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)]("#")
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)]("#")
-[![Sencha](https://img.shields.io/badge/Sencha-77AA37?style=for-the-badge&labelColor=black&logo=sencha&logoColor=90C53E)]("#")
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B)]("#")
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![BootStrap](https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
+![Sencha](https://img.shields.io/badge/Ext_JS-77AA37?style=for-the-badge&labelColor=black&logo=sencha&logoColor=90C53E)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B)
 
 <!-- [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1c79e3?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)]("#") -->
 
