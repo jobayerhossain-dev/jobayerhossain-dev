@@ -48,15 +48,14 @@ I believe that a good website can lead to a great business.</strong></p>
 <!-- My github summary -->
 <h2 align="center">My Github Summary</h2>
 
-| ![Github overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayerhossain699&theme=nord_bright) | ![Github commit hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayerhossain699&theme=nord_bright&utcOffset=6) | 
-| ------------- | ------------- |
+| ![Most Used Languages](https://metrics.lecoq.io/jobayerhossain699?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=true&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=18&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDhaka) | 
+| ------------- |
 
-| ![Top language by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobayerhossain699&theme=solarized) | ![Top language by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobayerhossain699&theme=solarized) | ![Most Used Languages](https://metrics.lecoq.io/jobayerhossain699?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=true&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=18&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDhaka) |
+| ![Github commit hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayerhossain699&theme=nord_bright&utcOffset=6) | ![Top language by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobayerhossain699&theme=solarized) | ![Top language by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobayerhossain699&theme=solarized) |
 | ------------- | ------------- | ------------- |
 
 | ![Github stats](https://github-readme-stats.vercel.app/api?username=jobayerhossain699&show_icons=true&locale=en&theme=nord&text_color=fff) | ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain699&theme=nord) |
 | ------------- | ------------- |
-
 
 <!-- My all contacts -->
 <h2 align="center">Where to find me</h2>
