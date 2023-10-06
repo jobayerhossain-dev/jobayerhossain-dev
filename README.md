@@ -54,6 +54,9 @@ I believe that a good website can lead to a great business.</strong></p>
 | ![Github commit hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayerhossain-dev&theme=nord_bright&utcOffset=6) | ![Top language by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobayerhossain-dev&theme=solarized) | ![Top language by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobayerhossain-dev&theme=solarized) |
 | ------------- | ------------- | ------------- |
 
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=jobayerhossain-dev&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)"> |
+| ------------- |
+
 | ![Github stats](https://github-readme-stats.vercel.app/api?username=jobayerhossain-dev&show_icons=true&locale=en&theme=nord&text_color=fff) | ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain-dev&theme=nord) |
 | ------------- | ------------- |
 
