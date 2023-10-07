@@ -1,28 +1,46 @@
-<!-- Welcoming text -->
-<h1 align="center" >Hi, there my gorgeous friends</h1>
 
-<!-- My openion -->
-<p align="justify"><strong>I'm Jobayer Hossain & dedicated to building Web Application. I enjoy helping people to create their online presence, and I am particularly pleased with coding. Because of this, I strive to do my best in Web Application Development. <br/>
+<img width=100% title="Jobayer Hossain" alt="Jobayer Hossain" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jobayer-Hossain🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+
+<!-- ##################### Welcoming text ######################## -->
+<h1 align="center" >Hi, there my gorgeous friends ♥️</h1>
+
+
+<!-- ##################### My openion ######################## -->
+<br/>
+<p align="justify"><strong>I'm Jobayer Hossain. I'm dedicated to building Web Application. I enjoy helping people to create their online presence and also particularly pleased with coding. Because of this, I strive to do my best in Web Application Development. <br/>
 I believe that a good website can lead to a great business.</strong></p> 
 
-<!-- Showoff my country -->
+
+<!-- ##################### Github visitor counter ######################## -->
+<br/><br/>
+<p align="center"> 
+  <div align="center"><strong>Visitor Counter</strong></div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/jobayerhossain-dev/count.svg"/>
+  </div> 
+</p>
+
+
+<!-- ##################### Showoff my country ######################## -->
+<br/>
 <img align="right" src="https://github.com/jobayerhossain-dev/jobayerhossain-dev/assets/114942451/6d125de7-0bb7-4ab7-aae6-b91e4d5b5449" alt="Bangladesh flag">
 
-<!-- My github views -->
-![Profile Views](https://komarev.com/ghpvc/?username=jobayerhossain-dev)
 
-<!-- About me -->
+<!-- ##################### About me ######################## -->
+
 🔭  I’m currently working on  **Responsive Web Design** <br/>
 🌱  I’m currently learning:  **MEAN Stack** <br/>
 💻  Most used line of code:  `System.out.println("Hello World!");` <br/>
 📧  How to reach me:  **jobayerhossain377@gmail.com** <br/>
-🌐  See my website:  **https://jobayerhossain-dev.github.io** <br/>
+🌐  Visit website:  **https://jobayerhossain-dev.github.io** <br/>
 ♥️  I enjoy programming and sharing my knowledge. <br/>
 ⚡  Fun fact:  **Committing code like a bose** 🚀 <br/>
 
 
-<!-- Showoff my skillset -->
-<h2 align="center">Languages & Tools</h2>
+<!-- ##################### Showoff my skillset ######################## -->
+<br/>
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -45,10 +63,12 @@ I believe that a good website can lead to a great business.</strong></p>
 
 <!-- [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1c79e3?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)]("#") -->
 
-<!-- My github summary -->
-<h2 align="center">My Github Summary</h2>
 
-| <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jobayerhossain-dev&show_icons=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=en&theme=nord&text_color=fff"> | <img alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhossain-dev&layout=donut&locale=en&theme=nord&text_color=fff"> | 
+<!-- ##################### My github summary ######################## -->
+<br/>
+<h2 align="center">🔥 My Github Summary 🔥</h2>
+
+| <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jobayerhossain-dev&show_icons=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=en&theme=nord&text_color=ffffff&hide_border=true&title_color=53a5df"> | <img alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhossain-dev&layout=donut&locale=en&theme=nord&text_color=ffffff&hide_border=true&custom_title=Top%20%Used%20%Languages&langs_count=10&title_color=ca77d0"> | 
 | ------------- | ------------- |
 
 | ![Github commit hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayerhossain-dev&theme=nord_bright&utcOffset=6) | ![Top language by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobayerhossain-dev&theme=solarized) | ![Top language by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobayerhossain-dev&theme=solarized) |
@@ -58,12 +78,13 @@ I believe that a good website can lead to a great business.</strong></p>
 | ------------- |
 
 <div align="center">
-  <img height=200 alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain-dev&theme=nord">
+  <img height=200 alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain-dev&theme=nord&hide_border=true">
 </div>
 
 
-<!-- My all contacts -->
-<h2 align="center">Where to find me</h2>
+<!-- ##################### Contact ######################## -->
+<br/>
+<h2 align="center">✈️ Where to find me ✈️</h2>
 
 <p align="center" style="margin: 20px;">
   <a href="mailto:jobayerhossain377@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -74,3 +95,5 @@ I believe that a good website can lead to a great business.</strong></p>
 
 <!-- [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jobayerhossain22)
 [![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/jobayerhossain-dev) -->
+
+<img width=100% title="Jobayer Hossain" alt="Jobayer Hossain"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30"/>
