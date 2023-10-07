@@ -1,5 +1,5 @@
 
-<img width=100% title="Jobayer Hossain" alt="Jobayer Hossain" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jobayer-Hossain🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Jobayer Hossain" alt="Jobayer Hossain" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jobayer-Hossain🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 
 <!-- ##################### Welcoming text ######################## -->
@@ -39,7 +39,7 @@ I believe that a good website can lead to a great business.</strong></p>
 
 
 <!-- ##################### Showoff my skillset ######################## -->
-<br/>
+<br/><br/><br/>
 <h2 align="center">🛠️ Languages & Tools 🛠️</h2>
 
 <p align="left">
@@ -96,4 +96,4 @@ I believe that a good website can lead to a great business.</strong></p>
 <!-- [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jobayerhossain22)
 [![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/jobayerhossain-dev) -->
 
-<img width=100% title="Jobayer Hossain" alt="Jobayer Hossain"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30"/>
+<img width=100% title="Jobayer Hossain" alt="Jobayer Hossain"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks_for_visiting!!!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=70"/>
