@@ -48,17 +48,19 @@ I believe that a good website can lead to a great business.</strong></p>
 <!-- My github summary -->
 <h2 align="center">My Github Summary</h2>
 
-| ![Most Used Languages](https://metrics.lecoq.io/jobayerhossain-dev?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=true&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=18&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDhaka) | 
-| ------------- |
+| <img height=370 alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jobayerhossain-dev&show_icons=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=en&theme=nord&text_color=fff"> | <img height=250 alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhossain-dev&layout=donut&locale=en&theme=nord&text_color=fff"> | 
+| ------------- | ------------- |
 
 | ![Github commit hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayerhossain-dev&theme=nord_bright&utcOffset=6) | ![Top language by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobayerhossain-dev&theme=solarized) | ![Top language by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobayerhossain-dev&theme=solarized) |
 | ------------- | ------------- | ------------- |
 
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=jobayerhossain-dev&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)"> |
+| ![Github Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jobayerhossain-dev&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true) |
 | ------------- |
 
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=jobayerhossain-dev&show_icons=true&locale=en&theme=nord&text_color=fff) | ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain-dev&theme=nord) |
-| ------------- | ------------- |
+<div align="center">
+  <img height=200 alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain-dev&theme=nord">
+</div>
+
 
 <!-- My all contacts -->
 <h2 align="center">Where to find me</h2>
