@@ -4,7 +4,7 @@
 
 
 <!-- ##################### Welcoming text ######################## -->
-<h1 align="center" >Hi, there my gorgeous friends ♥️</h1>
+<h1 align="center">Hi, there my gorgeous friends ♥️</h1>
 
 
 
@@ -18,12 +18,11 @@ I believe that a good website can lead to a great business and a beautiful GitHu
 
 <!-- ##################### Github visitor counter ######################## -->
 <br/><br/>
-<p align="center"> 
-  <div align="center"><strong>Visitor Counter</strong></div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/jobayerhossain-dev/count.svg"/>
-  </div> 
-</p>
+<div align="center"><strong>Visitor Counter</strong></div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jobayerhossain-dev/count.svg"/>
+</div> 
+
 
 
 
@@ -31,7 +30,7 @@ I believe that a good website can lead to a great business and a beautiful GitHu
 <br/><br/>
 <h2 align="center"> About Me 🎯</h2>
 <br/>
-<table><tr><td valign="top" width="70%">
+<table><tr><td valign="center" width="70%">
 <div align="left">  
 🔭  I’m currently working on  <strong> Responsive Web Design and Github Profile Design </strong> <br/>
 🌱  I’m currently learning:  <strong> MEAN Stack </strong> <br/>
@@ -46,7 +45,7 @@ I believe that a good website can lead to a great business and a beautiful GitHu
 
 
 <!-- ##################### Country Flag ######################## -->
-<td valign="top" width="70%">
+<td valign="center" width="70%">
 <div align="right">  
 <img src="https://github.com/jobayerhossain-dev/jobayerhossain-dev/assets/114942451/6d125de7-0bb7-4ab7-aae6-b91e4d5b5449" alt="Bangladesh flag">
 </div>
@@ -57,7 +56,7 @@ I believe that a good website can lead to a great business and a beautiful GitHu
 <!-- ##################### My Skillset ######################## -->
 <br/><br/><br/>
 <h2 align="center">🛠️ Languages & Tools 🛠️</h2>
-
+<br/>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="40" height="37"/>
@@ -105,15 +104,15 @@ I believe that a good website can lead to a great business and a beautiful GitHu
 <br/><br/><br/>
 <h2 align="center">🌟 Connect With Me 🌟</h2>
 <br/>
-<p align="center" style="margin: 20px;">
-  <a href="mailto:jobayerhossain377@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/jobayerhossain-dev/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.facebook.com/jobayerhossain.dev/"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-    <a href="https://jobayerhossain-dev.github.io"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-    <a href="https://www.hackerrank.com/jobayerhossain61"><img align="center" src="https://img.shields.io/badge/Hackerrank-00b34d?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-    <a href="https://www.behance.net/jobayerhossain-dev"><img align="center" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-    <a href="https://dribbble.com/jobayerhossain-dev"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="mailto:jobayerhossain377@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/jobayerhossain-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.facebook.com/jobayerhossain.dev/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="https://jobayerhossain-dev.github.io"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+    <a href="https://www.hackerrank.com/jobayerhossain61"><img src="https://img.shields.io/badge/Hackerrank-00b34d?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+    <a href="https://www.behance.net/jobayerhossain-dev"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+    <a href="https://dribbble.com/jobayerhossain-dev"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+</div>
 
 
 
