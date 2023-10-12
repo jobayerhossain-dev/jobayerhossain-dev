@@ -27,7 +27,6 @@ I believe that a good website can lead to a great business and a beautiful GitHu
 
 
 
-
 <!-- ##################### Country Flag ######################## -->
 <br/><br/><br/>
 <img align="right" src="https://github.com/jobayerhossain-dev/jobayerhossain-dev/assets/114942451/6d125de7-0bb7-4ab7-aae6-b91e4d5b5449" alt="Bangladesh flag">
@@ -112,33 +111,26 @@ I believe that a good website can lead to a great business and a beautiful GitHu
 <!-- ##################### My Projects ######################## -->
 <br/><br/>
 <h2 align="center">💼 Github Projects 💼</h2>
-<table border="1">
+<table border="2">
   <tr>
-    <th> Project name </th>
+    <th> Project_Name </th>
     <th> Description </th>
-    <th> GitHub Link </th>
-    <th> Webpage View </th>
+    <th> GitHub_Link </th>
+    <th> Webpage_View </th>
   </tr>
   <tr>
     <td> Mafuz and Hossain Islami Bank </td>
     <td align="justify"> This is a simple command-line based banking system implemented in Python with MySQL integration. The program allows users to perform basic banking operations such as creating accounts, depositing money, withdrawing funds, and viewing account details. </td>
-    <td>  <a href="https://github.com/jobayerhossain-dev/Mafuz-and-Hossain-Islami-Bank#mafuz-and-hossain-islami-bank" target="_blank"> ReadMe </a> </td>
-    <td align="center"> - </td>
+    <td align="center">  <a href="https://github.com/jobayerhossain-dev/Mafuz-and-Hossain-Islami-Bank#mafuz-and-hossain-islami-bank" target="_blank"> <img src="./image/open-book.png" alt="Mafuz and Hossain Islami Bank"> </a> </td>
+    <td align="center"> --- </td> 
   </tr>
   <tr>
     <td> Daily Routine Tracker </td>
     <td align="justify"> A simple web application to help you track your daily routine tasks. You can add tasks, mark them as completed for each day of the week, and easily manage your habits. </td>
-    <td>  <a href="https://github.com/jobayerhossain-dev/Daily-Routine-Tracker#daily-routine-tracker" target="_blank"> ReadMe </a> </td>
-    <td align="center"> <a href="https://jobayerhossain-dev.github.io/Daily-Routine-Tracker" target="_blank"> 🌐 </a> </td> 
+    <td align="center">  <a href="https://github.com/jobayerhossain-dev/Daily-Routine-Tracker#daily-routine-tracker" target="_blank"> <img src="./image/open-book.png" alt="Daily Routine Tracker"> </a> </td>
+    <td align="center"> <a href="https://jobayerhossain-dev.github.io/Daily-Routine-Tracker" target="_blank"> <img src="./image/web-link.png" alt="Daily Routine Tracker"> </a> </td> 
   </tr>
   
 </table>
-
-
-
-
-
-<!-- [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jobayerhossain22)
-[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/jobayerhossain-dev) -->
 
 <img width=100% title="Jobayer Hossain" alt="Jobayer Hossain"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks_for_visiting!!!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=70"/>
