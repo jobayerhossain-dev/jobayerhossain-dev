@@ -34,11 +34,11 @@ I believe that a good website can lead to a great business and a beautiful GitHu
 <div align="left">  
 🔭  I’m currently working on  <strong> Responsive Web Design and Github Profile Design </strong> <br/>
 🌱  I’m currently learning:  <strong> MEAN Stack </strong> <br/>
-💻  Most used line of code:  <code> System.out.println("Hello World!"); </code> <br/>
+💻  Most used line of code:  <code> print("Hello World!"); </code> <br/>
 📧  How to reach me:  <a href="mailto:jobayerhossain377@gmail.com"> jobayerhossain377@gmail.com </a> <br/>
-🌐  Visit website:  <a href="https://jobayerhossain-dev.github.io" target="_blank"> https://jobayerhossain-dev.github.io </a> <br/>
+<!-- 🌐  Visit website:  <a href="https://jobayerhossain-dev.github.io" target="_blank"> https://jobayerhossain-dev.github.io </a> <br/> -->
 ♥️  I enjoy programming and sharing my knowledge. <br/>
-✨  Fun fact:  <strong> Committing code like a bose </strong> 🚀 <br/> 
+✨  Fun fact:  <strong> Committing code in Github like a bose </strong> 🚀 <br/> 
 </div>
 </td>
 
@@ -58,9 +58,9 @@ I believe that a good website can lead to a great business and a beautiful GitHu
 <h2 align="center">🛠️ Languages & Tools 🛠️</h2>
 <br/>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="40" height="37"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="37"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="40" height="37"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </p>
 
 ![CLI](https://img.shields.io/badge/CLI-1A1E22?style=for-the-badge)
@@ -105,13 +105,13 @@ I believe that a good website can lead to a great business and a beautiful GitHu
 <h2 align="center">🌟 Connect With Me 🌟</h2>
 <br/>
 <div align="center">
-  <a href="mailto:jobayerhossain377@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:jobayerhossain377@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/jobayerhossain-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/jobayerhossain.dev/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
     <a href="https://jobayerhossain-dev.github.io"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-    <a href="https://www.hackerrank.com/jobayerhossain61"><img src="https://img.shields.io/badge/Hackerrank-00b34d?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+    <!-- <a href="https://www.hackerrank.com/jobayerhossain61"><img src="https://img.shields.io/badge/Hackerrank-00b34d?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
     <a href="https://www.behance.net/jobayerhossain-dev"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-    <a href="https://dribbble.com/jobayerhossain-dev"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+    <a href="https://dribbble.com/jobayerhossain-dev"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a> -->
 </div>
 
 
